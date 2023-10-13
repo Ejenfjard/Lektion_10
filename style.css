@@ -1,0 +1,14 @@
+* {
+    background: black;
+}
+
+header {
+    width: 100%;
+    height: 300px;
+    background: blue;
+}
+
+h1 {
+    background: lightgrey;
+    font-size: large;
+}
